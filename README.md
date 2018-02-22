@@ -8,11 +8,9 @@ Well, I cannot really say it as a blog post or book but back in the day when I w
 
 Just after completing this workshop on Introductory to internet and HTML, my first web application was to build an Internal Memo system for my office in hope of cutting down paper usage. The application was purely built on HTML. It took me quite a time to complete this project. And it was not the best project, but however it did serve the purposes. The greatest challenge of course is insufficient knowledge and resources. During that time internet was just introduce to our area, and internet connection was really slow that was in 1998. I tired my best to make the application looks goods and not crash on users. Since, I don’t know about the existence of CSS during that time. Placing items on its location was challenge. But somehow I look through other sites and copy some tags, use it for my project. 
 
-### 3. Write a function in Python that takes a list of strings and returns a single string that is an HTML unordered list (<ul>...</ul>) of those strings. You should include a brief explanation of your code. Then, what would you have to consider if the original list was provided by user input?
+### 3. Write a function in Python that takes a list of strings and returns a single string that is an HTML unordered list (<ul></ul>) of those strings. You should include a brief explanation of your code. Then, what would you have to consider if the original list was provided by user input?
 
 #### Refer: answer1.py
-
-If the original list was a user input, then I would create an empty list to store the strings and create a while loop that takes user input and break the loop. I would append the user input into the list then call each string on the list to insert it between <li></li>
 
 ### 4. List 2-3 attacks that web applications are vulnerable to. How do these attacks work? How can we prevent those attacks?
 •	Carry out SQL injection attacks to gain access to the database, spoof a user’s identity, and destroy or alter data in the database. SQL injection occurs when malicious SQL statements are inserted into form fields to try and gather information from the database. This information enables the hacker to access, modify or destroy information in the database. \
