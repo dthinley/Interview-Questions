@@ -17,6 +17,7 @@ Just after completing this workshop on Introductory to internet and HTML, my fir
 •	Use Cross-Site Scripting (XSS) attacks to have browsers execute their malicious payloads to deface your website to promote their brand or their hacktivist ideals . XSS occurs when malicious code is injected into an application that executes on the client side.
 •	Make the site temporarily unavailable with a Distributed Denial of Service Attacks (DDoS). DDoS attacks generate requests from thousands of IP addresses in an attempt to flood a site with traffic, making it impossible for the server to respond to requests. DDoS attacks or bots can slow a site down or make it temporarily unavailable.
 
+#### Solution:
 1.	Implementing CAPTCHA or prompting users to answer questions. This ensures that a form or request is being submitted by a human and not a bot.
 2.	Use a Web Application Firewall (WAF) to monitor your network and block potential attacks.
 
