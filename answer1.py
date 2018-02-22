@@ -12,3 +12,9 @@ def htmlList (list):
     print (ulList)
  
 htmlList(fruits)
+
+
+# If the original list was a user input, empty list can be created
+# to store the strings. Next create while loop that takes user input and break the loop. 
+# We can then append the user input into the list and call each string on the 
+# list to insert it between <li></li>
