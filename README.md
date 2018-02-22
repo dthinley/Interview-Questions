@@ -24,6 +24,8 @@ If the original list was a user input, then I would create an empty list to stor
 
 5.	Here is some starter code for a Flask Web Application. Expand on that and include a route that simulates rolling two dice and returns the result in JSON. You should include a brief explanation of your code.
 
+* Refer: dice.py
+
 ** Route /2dice.json returns the result of rolling two dice in json format, in a list of two rolled results, i.e. integers between 1 and 
 
 ### 6. If you were to start your full-stack developer position today, what would be your goals a year from now?
