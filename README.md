@@ -32,3 +32,8 @@ Just after completing this workshop on Introductory to internet and HTML, my fir
 ### 6. If you were to start your full-stack developer position today, what would be your goals a year from now?
 My goal from for a year from now will be continuing my professional and personal growth, using my newfound skills and applying the incredible passion that I have for all of the work that I do in order to help other people to learn and grow.
 
+#### Resource: 
+https://www.instartlogic.com/blog/4-common-web-application-security-attacks-and-what-you-can-do-prevent-them
+https://stackoverflow.com/questions/43080832/creating-key-value-json-object-with-random-integers-and-flask
+
+
