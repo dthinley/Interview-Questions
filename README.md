@@ -10,7 +10,7 @@ Just after completing this workshop on Introductory to internet and HTML, my fir
 
 ### 3. Write a function in Python that takes a list of strings and returns a single string that is an HTML unordered list (<ul>...</ul>) of those strings. You should include a brief explanation of your code. Then, what would you have to consider if the original list was provided by user input?
 
-Refer: answer1.py
+#### Refer: answer1.py
 
 If the original list was a user input, then I would create an empty list to store the strings and create a while loop that takes user input and break the loop. I would append the user input into the list then call each string on the list to insert it between <li></li>
 
@@ -24,7 +24,7 @@ If the original list was a user input, then I would create an empty list to stor
 
 ### 5. Here is some starter code for a Flask Web Application. Expand on that and include a route that simulates rolling two dice and returns the result in JSON. You should include a brief explanation of your code.
 
-### *Refer: dice.py
+##### Refer: dice.py
 
 *Route /2dice.json returns the result of rolling two dice in json format, in a list of two rolled results, i.e. integers between 1 and 
 
