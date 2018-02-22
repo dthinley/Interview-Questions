@@ -8,7 +8,7 @@ Well, I cannot really say it as a blog post or book but back in the day when I w
 
 Just after completing this workshop on Introductory to internet and HTML, my first web application was to build an Internal Memo system for my office in hope of cutting down paper usage. The application was purely built on HTML. It took me quite a time to complete this project. And it was not the best project, but however it did serve the purposes. The greatest challenge of course is insufficient knowledge and resources. During that time internet was just introduce to our area, and internet connection was really slow that was in 1998. I tired my best to make the application looks goods and not crash on users. Since, I don’t know about the existence of CSS during that time. Placing items on its location was challenge. But somehow I look through other sites and copy some tags, use it for my project. 
 
-### 3. Write a function in Python that takes a list of strings and returns a single string that is an HTML unordered list (<ul></ul>) of those strings. You should include a brief explanation of your code. Then, what would you have to consider if the original list was provided by user input?
+### 3. Write a function in Python that takes a list of strings and returns a single string that is an HTML unordered list (ul /ul) of those strings. You should include a brief explanation of your code. Then, what would you have to consider if the original list was provided by user input?
 
 #### Refer: answer1.py
 
