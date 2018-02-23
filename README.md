@@ -11,7 +11,7 @@ Just after completing this workshop on Introductory to internet and HTML, my fir
 ### 3. Write a function in Python that takes a list of strings and returns a single string that is an HTML unordered list (ul /ul) of those strings. You should include a brief explanation of your code. Then, what would you have to consider if the original list was provided by user input?
 
 
-#### [Refer: answer1.py](https://github.com/dthinley/Interview-Questions/blob/master/answer1.py).
+#### Refer: [answer1.py](https://github.com/dthinley/Interview-Questions/blob/master/answer1.py).
 
 ### 4. List 2-3 attacks that web applications are vulnerable to. How do these attacks work? How can we prevent those attacks?
 •	Carry out SQL injection attacks to gain access to the database, spoof a user’s identity, and destroy or alter data in the database. SQL injection occurs when malicious SQL statements are inserted into form fields to try and gather information from the database. This information enables the hacker to access, modify or destroy information in the database. 
@@ -26,7 +26,7 @@ Just after completing this workshop on Introductory to internet and HTML, my fir
 
 ### 5. Here is some starter code for a Flask Web Application. Expand on that and include a route that simulates rolling two dice and returns the result in JSON. You should include a brief explanation of your code.
 
-#### [Refer:dice.py](https://github.com/dthinley/Interview-Questions/blob/master/dice.py).
+#### Refer: [dice.py](https://github.com/dthinley/Interview-Questions/blob/master/dice.py).
 
 *Route /dice.json returns the result of rolling two dice in json format. 
 
